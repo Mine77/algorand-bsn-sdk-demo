@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "algosdk": "^1.9.1",
+    "dotenv": "^10.0.0"
+  }
+}
